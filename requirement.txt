@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+slackeventsapi
+requests
+python-dotenv
+fastapi-utilities
